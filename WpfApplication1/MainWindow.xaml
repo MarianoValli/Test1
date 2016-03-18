@@ -6,6 +6,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBlock Text="Ciao come stai?"></TextBlock>
+        <TextBlock Text="Ciao come stai?"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="261,182,0,0" VerticalAlignment="Top" Width="75"/>
+
+
     </Grid>
 </Window>
